@@ -1,5 +1,5 @@
 let fetch = require('node-fetch')
-//plugin by Samu330
+//plugin by juan
 
 let handler  = async (m, { conn, text }) => {
 //let text = args.join` `
