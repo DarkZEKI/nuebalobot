@@ -2,12 +2,12 @@
 <img src="https://media.giphy.com/media/sRGUfOYkLt5chUss87/giphy.gif" width="128" height="135"/>
 </p>
 
-# esu-bot
+# nuebalobot🤑
 Simple WhatsApp Bot for Andriod & pc
 
-BOT BY Smu330⃟꙰
+BOT BY tu puta madre
 
-TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰ͧͧͧ⃤⃫✫⃝꯭꯭꯭꯭햮꯭꯭℠₃₃‎̶₀̶• ⃫̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰♥️⃝⃫꙰꙰꙰✫
+TEAM pito de juan
 
 ### FOR TERMUX USER💥
 ```bash
@@ -16,9 +16,10 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Samu330/esubot
-> cd esubot
+> git clone https://github.com/DarkZEKI/nuebalobot
+> cd nuebalobot
 > npm install
+> node index.js
 ```
 ###### Run🏃🏻‍♂️
 ```bash
@@ -33,9 +34,7 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 * Download And Install FFMPEG [`Click Here`](https://ffmpeg.org/download.html) (don't forget to path) 
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php) (if nulis want work,  checklist columns 1,2,3,5,6) 
 ```bash
-> git clone https://github.com/Samu330/esubot
-> cd esubot
-> npm install
+> 
 ```
 ###### Run
 ```bash
